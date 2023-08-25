@@ -16,7 +16,7 @@
 
 ## 42cursus Projects
 ### Piscine:
-- [Piscine](https://github.com/GiovannaCoqueiro/42-Piscine)
+- [Piscine](https://github.com/danisayumin/Piscine42)
 
 ### Phase 1:
 - [libft](https://github.com/danisayumin/libft)
