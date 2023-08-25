@@ -1,8 +1,7 @@
 ### Hiii i'm Dani Sayumi!Front-end Developer!
 
-- 🔭 I’m currently working on Front-end Development
-- 🌱 I’m currently learning C, Shell, Linux and JavaScript
-- 💻 Working at IBM
+- 🔭 I’m currently working on Front-end Development at IBM
+- 🌱 Learning C, Shell, Linux and JavaScript
 - 🧑‍🚀 Cadet at 42 São Paulo
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love avocado 🥑 and matcha 🍵
