@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on Front-end Development
 - 🌱 I’m currently learning C, Shell, Linux and JavaScript
+- 💻 Working at IBM
+- 🧑‍🚀 Cadet at 42 São Paulo
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love avocado 🥑 and matcha 🍵
   
@@ -15,7 +17,7 @@
 ---
 
 ## 42cursus Projects
-### Piscine:
+### Piscine🏊:
 - [Piscine](https://github.com/danisayumin/Piscine42)
 
 ### Phase 1:
