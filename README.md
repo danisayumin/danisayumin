@@ -1,13 +1,10 @@
-### Hiii Sou a Dani Sayumi!desenvolvedora front-end!
+### Hiii i'm Dani Sayumi!Front-end Developer!
 
 - 🔭 I’m currently working on Front-end 
 - 🌱 I’m currently learning C, Shell, Linux and JavaScript
-- 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love avocado 🥑 and matcha 🍵
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-
 <div> 
   <a href="https://www.instagram.com/dani_sayumin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:sayuminitta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -15,4 +12,14 @@
   
 </div>
 
-![snake gif](https://github.com/danisayumin/danisayumin/blob/output/github-contribution-grid-snake.svg)
+---
+
+## 42cursus Projects
+### Piscine:
+- [Piscine](https://github.com/GiovannaCoqueiro/42-Piscine)
+
+### Phase 1:
+- [libft](https://github.com/danisayumin/libft)
+- [get_next_line](https://github.com/danisayumin/get_next_line)
+- [ft_printf](https://github.com/danisayumin/printf)
+- born2beroot (the goal is to implement a Linux SO in a Virtual Machine, no code)
