@@ -1,6 +1,6 @@
 ### Hiii i'm Dani Sayumi!Front-end Developer!
 
-- 🔭 I’m currently working on Front-end 
+- 🔭 I’m currently working on Front-end Development
 - 🌱 I’m currently learning C, Shell, Linux and JavaScript
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love avocado 🥑 and matcha 🍵
