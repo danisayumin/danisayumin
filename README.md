@@ -24,6 +24,7 @@
 - [get_next_line](https://github.com/danisayumin/get_next_line)
 - [ft_printf](https://github.com/danisayumin/printf)
 - born2beroot (the goal is to implement a Linux SO in a Virtual Machine, no code)
+- [fractol](https://github.com/danisayumin/linuquisfractou)
 
 ## Fun Projects
 - [Pokedex](https://github.com/danisayumin/Pokedex)
