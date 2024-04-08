@@ -1,10 +1,10 @@
-### Hiii i'm Dani Sayumi!Front-end Developer!
+### Hiii i'm Dani Sayumin!
 
-- 🔭 I’m currently working on Front-end Development at IBM
-- 🌱 Learning C, Shell, Linux and JavaScript
-- 🧑‍🚀 Cadet at 42 São Paulo
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love avocado 🥑 and matcha 🍵
+- 🔭 I am currently working as a software engineer at Itaú Unibanco.
+- 🌱 Learning C, Shell, Linux, JavaScript and Python. 
+- 🧑‍🚀 Cadet at 42 São Paulo.
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact: I love avocado 🥑 and matcha 🍵.
   
 <div> 
   <a href="https://www.instagram.com/dani_sayumin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -20,11 +20,15 @@
 - [Piscine](https://github.com/danisayumin/Piscine42)
 
 ### Phase 1:
-- [libft](https://github.com/danisayumin/libft)
-- [get_next_line](https://github.com/danisayumin/get_next_line)
-- [ft_printf](https://github.com/danisayumin/printf)
+- [libft](https://github.com/danisayumin/libft) - "library with multiple functions of existing libraries."
+- [get_next_line](https://github.com/danisayumin/get_next_line) - "A C program that reads lines from a file or standard input incrementally."
+- [ft_printf](https://github.com/danisayumin/printf) - "recreating the printf function."
 - born2beroot (the goal is to implement a Linux SO in a Virtual Machine, no code)
-- [fractol](https://github.com/danisayumin/linuquisfractou)
+- [fractol](https://github.com/danisayumin/linuquisfractou) - "creating fractals in C."
+
+### Phase 2:
+- [minitalk](.) - building...
+- [push_swap](.) - building...
 
 ## Fun Projects
 - [Pokedex](https://github.com/danisayumin/Pokedex)
