@@ -27,8 +27,9 @@
 - [fractol](https://github.com/danisayumin/linuquisfractou) - "creating fractals in C."
 
 ### Phase 2:
-- [minitalk](.) - building...
-- [push_swap](.) - building...
+- [minitalk](https://github.com/danisayumin/42_minitalk) - "A communication program in the form of a client and a server"
+- [push_swap](https://github.com/danisayumin/push_swap) - "Sort stacks"
+- [minishell](.)
 
 ## Fun Projects
 - [Pokedex](https://github.com/danisayumin/Pokedex)
