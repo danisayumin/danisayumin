@@ -17,7 +17,7 @@
 
 ## 42cursus Projects
 ### Piscine🏊:
-- [Piscine](https://github.com/danisayumin/Piscine42)
+- [Piscine](https://github.com/danisayumin/Piscine42) - "42 São Paulo selection process(piscine) codes"
 
 ### Phase 1:
 - [libft](https://github.com/danisayumin/libft) - "library with multiple functions of existing libraries."
