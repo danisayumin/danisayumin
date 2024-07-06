@@ -30,6 +30,7 @@
 - [minitalk](https://github.com/danisayumin/42_minitalk) - "A communication program in the form of a client and a server"
 - [push_swap](https://github.com/danisayumin/push_swap) - "Sort stacks"
 - [minishell](.) - "In Progress..."
+- [philosophers](.) - "In Progress.."
 
 ## Fun Projects
 - [Pokedex](https://github.com/danisayumin/Pokedex)
