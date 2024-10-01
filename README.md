@@ -1,6 +1,6 @@
 ### Hiii i'm Dani Sayumin!
 
-- 🔭 I am currently working as a software engineer at Itaú Unibanco.
+- 🔭 I am currently working as a software engineer at Hospital albert einstein.
 - 🌱 Learning C, Shell, Linux, JavaScript and Python. 
 - 🧑‍🚀 Cadet at 42 São Paulo.
 - 😄 Pronouns: She/Her.
