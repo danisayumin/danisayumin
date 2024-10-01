@@ -29,8 +29,9 @@
 ### Phase 2:
 - [minitalk](https://github.com/danisayumin/42_minitalk) - "A communication program in the form of a client and a server"
 - [push_swap](https://github.com/danisayumin/push_swap) - "Sort stacks"
-- [minishell](.) - "coding a mini terminal"
-- [philosophers](.) - "unraveling the riddle of philosophers"
+- [minishell](https://github.com/danisayumin/Minishell) - "coding a mini terminal"
+- [philosophers](.) - "learning threads with philosophers dinner"
 
 ## Fun Projects
 - [Pokedex](https://github.com/danisayumin/Pokedex)
+- [GenAI](https://github.com/danisayumin/genai_42) - "GenAI exercises"
