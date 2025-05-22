@@ -1,7 +1,7 @@
 ### Hiii i'm Dani Sayumin!
 
 - 🔭 I am currently working as a software engineer at Hospital albert einstein.
-- 🌱 Learning C, Shell, Linux, JavaScript and Python. 
+- 🌱 Learning C, C++, Shell, Linux, JavaScript and Python. 
 - 🧑‍🚀 Cadet at 42 São Paulo.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I love avocado 🥑 and matcha 🍵.
@@ -29,13 +29,16 @@
 ### Phase 2:
 - [minitalk](https://github.com/danisayumin/42_minitalk) - "A communication program in the form of a client and a server"
 - [push_swap](https://github.com/danisayumin/push_swap) - "Sort stacks"
-- [miniHELL](https://github.com/danisayumin/Minishell) - "coding a mini terminal"
+- [miniHELL](https://github.com/danisayumin/Minishell) - "Coding a mini terminal(the most difficult project of 42 lol)"
 - [philosophers](https://github.com/danisayumin/philosophers) - "learning threads with philosophers dinner"
 
 ### Phase 3:
-- [netpractice]
-- [CPPModules]
-- [Cub3d]
+- [netpractice] - "Just net, no code, with lots of practice"
+- [CPPModules] - "(In progress...)"
+- [Cub3d] - "Wolfenstein prototype"
+
+### Phase 4:
+- []
 
 ## Fun Projects
 - [Pokedex](https://github.com/danisayumin/Pokedex)
