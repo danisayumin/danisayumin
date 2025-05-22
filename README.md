@@ -23,7 +23,7 @@
 - [libft](https://github.com/danisayumin/libft) - "library with multiple functions of existing libraries."
 - [get_next_line](https://github.com/danisayumin/get_next_line) - "A C program that reads lines from a file or standard input incrementally."
 - [ft_printf](https://github.com/danisayumin/printf) - "recreating the printf function."
-- born2beroot (the goal is to implement a Linux SO in a Virtual Machine, no code)
+- born2beroot (implement a Linux SO in a Virtual Machine, no code)
 - [fractol](https://github.com/danisayumin/linuquisfractou) - "creating fractals in C."
 
 ### Phase 2:
