@@ -1,8 +1,7 @@
 ### Hiii i'm Dani Sayumin!
 
-- 🔭 I am currently working as a software engineer at Hospital albert einstein.
-- 🌱 Learning C, C++, Shell, Linux, JavaScript and Python. 
-- 🧑‍🚀 Cadet at 42 São Paulo.
+- 🔭 I am currently working as a Data analyst at Hospital albert einstein.
+- 🧑‍🚀 Human coder at 42 São Paulo.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I love avocado 🥑 and matcha 🍵.
   
